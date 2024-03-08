@@ -1,0 +1,122 @@
+.text2{
+    font-size: xx-large;
+    background-color: rgb(236, 230, 230);
+    
+}
+body{
+    font-size: x-large;
+}
+.nave{
+display: flex;
+    color: white;
+    padding: 10%;
+
+}
+.bigdivP{
+display: flex;
+
+}
+
+.div1{
+    background-color: blueviolet;
+    color: black;
+    padding: 15px;
+
+
+}
+.button{
+    padding: 12px;
+    color: black;
+    background-color: rgb(196, 202, 106);
+
+}
+.term{
+    text-align: center;
+}
+.bibo{
+    display: flex;
+    gap: 8%;
+
+}
+.div4{
+    font-size: medium;
+    
+    border: solid;
+    
+    display: flex;
+
+
+}
+.move{
+background-image: url(https://d2rxt25e475whq.cloudfront.net/wp-content/uploads/2023/07/25230619/AdobeStock_127116624-962x500.jpeg.webp);    
+background-repeat: no-repeat;
+padding: 300px;
+font-size: xx-large;
+}
+.box3{
+    display: flex;
+    gap: 5%;
+}
+
+.box4{
+    display: flex;
+    gap: 5%;
+}
+.photo1{
+    width: 100%;
+    height: 90%;
+}
+.box5{
+    display: flex;
+    gap: 12%;
+
+}
+.box6{
+    background-color: blue;
+    color: white;
+}
+.littlebox{
+    display: flex;
+    gap: 3%;
+
+}
+.boses{
+    display: flex;
+    gap: 5%;
+}
+.viv{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+
+}
+.wc{
+
+
+}
+.pix{
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20230925/pngtree-packing-boxes-in-the-kitchen-image_13173655.png);
+width: 900px;
+height: 900px;
+background-repeat: no-repeat;
+font-size: xx-large;
+border: solid;
+color:blue ;
+background-color: blue;
+
+}
+.nav{
+    background-color:azure;
+    border: solid;
+    width: 100%;
+}
+.nav2{
+    border: solid;
+    height: 19%;
+    width: 100%;
+}
+.text xx{
+    display: flex;
+}
+
+
